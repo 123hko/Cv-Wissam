@@ -1,0 +1,47 @@
+h1 {
+
+font-size: 55px; 
+color:  rgb(140, 140, 1400);
+font-family: Playfair display;
+text-align: center;}
+
+
+h2{
+	font-size: 25px;
+	color: rgb(255, 51, 150);
+	border:  2px solid hotpink;
+	margin: 15px;
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Amatic SC', cursive;
+	}
+.toto {
+	color: rgb(255, 144, 198);
+	}
+.rs {
+	color: rgb(247, 185, 215);
+}
+img {
+	width: 230px;
+	border-radius: 115px;
+	text-align: center;
+}
+.souligner {
+	border-bottom: 1px solid black;
+}
+.boite{
+	font-size: 50px;
+	color: hotpink;
+	border-bottom: 2px solid pink;
+}
+p {
+	font-size: 20px;
+	color: hotpink;
+	border: 2px solid pink;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Gill Sans"sans-serif;
+}
